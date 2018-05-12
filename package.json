@@ -1,0 +1,23 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MankalMR/node-weather-app.git"
+  },
+  "author": "Manohar Rao Mankala",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MankalMR/node-weather-app/issues"
+  },
+  "homepage": "https://github.com/MankalMR/node-weather-app#readme",
+  "dependencies": {
+    "request": "^2.85.0",
+    "yargs": "^11.0.0"
+  }
+}

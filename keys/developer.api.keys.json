@@ -1,0 +1,4 @@
+{
+    "google_geocode_api": "YOUR_GOOGLE_GEOCODE_API_KEY",
+    "darksky_api": "YOUR_DARKSKY_API_KEY"
+}
